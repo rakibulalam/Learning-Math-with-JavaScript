@@ -1,3 +1,8 @@
+/**
+ * @description floor type sqrt
+ * @param {Number} number 
+ * @return {Number}
+ */
 export const floorSqrt = (number) => {
 	if (number === 0 || number === 1) return number;
 	let i = 1,

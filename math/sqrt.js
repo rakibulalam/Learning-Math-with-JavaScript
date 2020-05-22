@@ -13,7 +13,8 @@
 // };
 /**
  * @description Babylonian method for square root;
- * @param {*} number 
+ * @param {Number} number 
+ * @return {Number}
  */
 export const sqrt=(number)=>
 {
